@@ -1,0 +1,8 @@
+1.Go ahead and type the following code in the code-editor:
+
+  print "Hello HackerRank!!"
+
+2.Assuming a variable number is already defined, check whether a given number is even or not.
+
+3.in the code-editor, Ruby treats self as the object in which it is currently referred to.
+
